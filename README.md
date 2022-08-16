@@ -29,7 +29,8 @@
 <div style="display: inline_block"><br>
   <img align="center"  height="30" weight="40" alt="android studio" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
    <img align="center" height="30" weight="40" alt="intellij" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" height="30" weight="40" alt="Visual code" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+  <img align="center" height="30" weight="40" alt="Visual code" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   <img align="center" height="30" weight="40" alt="Visual code" img src="https://user-images.githubusercontent.com/97995984/184971513-c7963c26-26f3-4c18-b1e7-0f6a66fb0061.svg">
 </div>
 
 
