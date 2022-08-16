@@ -5,9 +5,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leonardolira18)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardo.lira.5074)
 
-![Leonardo Lira GitHub stats](https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&layout=compact&theme=dracula)](https://github.com/leolira1808/github-readme-stats)
+<div aling ="centro">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=dracula">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&layout=compac&langs_counts=7&theme=dracula"    href="https://github.com/leolira1808/github-readme-stats">
+</div>
 
 ## *_Tecnologias de interesse_*
 
