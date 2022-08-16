@@ -7,19 +7,29 @@
 
 ![Leonardo Lira GitHub stats](https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808)](https://github.com/leolira1808/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&theme=dracula)](https://github.com/leolira1808/github-readme-stats)
 
 ## *_Tecnologias de interesse_*
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">  
-   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-  <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">   
-  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
+  <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
+  <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />           
+  <img align="center" alt="markdown" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />           
+  <img align="center" alt="node.js" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
+  <img align="center" alt="pyton" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />           
+  <img align="center" alt="react" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+<br>
+
+## Principais Ide's
+
+
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" weight="40" alt="android studio" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+   <img align="center" height="30" weight="40" alt="intellij" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" height="30" weight="40" alt="Visual code" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+</div>
+
 
