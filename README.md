@@ -7,7 +7,7 @@
 
 ![Leonardo Lira GitHub stats](https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&theme=dracula)](https://github.com/leolira1808/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&layout=compact&theme=dracula)](https://github.com/leolira1808/github-readme-stats)
 
 ## *_Tecnologias de interesse_*
 
@@ -32,5 +32,4 @@
   <img align="center" height="30" weight="40" alt="Visual code" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" height="30" weight="40" alt="Visual code" img src="https://user-images.githubusercontent.com/97995984/184971513-c7963c26-26f3-4c18-b1e7-0f6a66fb0061.svg">
 </div>
-
 
