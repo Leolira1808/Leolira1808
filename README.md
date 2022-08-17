@@ -7,7 +7,7 @@
 
 <div aling ="centro">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=dracula">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&layout=compac&langs_counts=7&theme=dracula"    href="https://github.com/leolira1808/github-readme-stats">
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&layout=compac&langs_counts=7&theme=dracula"    href="https://github.com/leolira1808/github-readme-stats">
 </div>
 
 ## *_Tecnologias de interesse_*
