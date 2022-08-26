@@ -6,15 +6,19 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardo.lira.5074)
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=dracula"> 
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&layout=compact&theme=dracula" href="https://github.com/leolira1808/github-readme-stats">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+
 </div>
 
  
 ## 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
+
+ <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+   <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
    <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />           
@@ -22,6 +26,14 @@
   <img align="center" alt="node.js" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
   <img align="center" alt="pyton" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />           
   <img align="center" alt="react" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <!-- <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
+  <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
+  <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />           
+  <img align="center" alt="markdown" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />           
+  <img align="center" alt="node.js" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
+  <img align="center" alt="pyton" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />           
+  <img align="center" alt="react" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
 </div>
 <br>
 
