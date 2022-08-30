@@ -13,10 +13,11 @@
   
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <h1 align="center">Melhores Tecnologias 🧑🏽‍💻</h1>
+  <img align="center" alt="android" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
-  <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  <img align="center" alt="java" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
-  <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />           
+  <img align="center" alt="javaScript" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         <img align= "center" alt="bootstrap height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> 
   <img align="center" alt="markdown" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />           
   <img align="center" alt="node.js" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
   <img align="center" alt="pyton" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />           
