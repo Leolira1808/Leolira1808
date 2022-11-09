@@ -19,14 +19,16 @@ Leolira1808&show_icons=true&theme=dracula&include_all_commits=true&count_private
   <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
   <img align="center" alt="java" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
-  <img align="center" alt="javaScript" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         <img align= "center" alt="bootstrap height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> 
-  <img align="center" alt="markdown" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />           
+  <img align="center" alt="javaScript" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         <img align= "center" alt="bootstrap height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  
+  <!--bloco comentado-->
+  <!--<img align="center" alt="markdown" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />         
   <img align="center" alt="node.js" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
   <img align="center" alt="pyton" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />           
-  <img align="center" alt="react" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="react" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
   <!-- <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
+  <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>   
   <img align="center" alt="html5" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />           
   <img align="center" alt="markdown" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />           
   <img align="center" alt="node.js" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
@@ -36,9 +38,8 @@ Leolira1808&show_icons=true&theme=dracula&include_all_commits=true&count_private
   <img align="center"  height="30" weight="40" alt="android studio" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
    <img align="center" height="30" weight="40" alt="intellij" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" height="30" weight="40" alt="Visual code" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" height="30" weight="40" alt="Visual code" img src="https://user-images.githubusercontent.com/97995984/184971513-c7963c26-26f3-4c18-b1e7-0f6a66fb0061.svg">
- </div>
- 
+   <img align="center" height="30" weight="40" alt="eclise" img src="https://user-images.githubusercontent.com/97995984/184971513-c7963c26-26f3-4c18-b1e7-0f6a66fb0061.svg">
+ </div> 
  
  <h1 align="center">Redes Sociais</h1>
    <a href= "https://www.facebook.com/leonardo.lira.5074"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
