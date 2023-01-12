@@ -4,10 +4,10 @@
 <div>
 <!--<img  height="150em" src="https://github-readme-stats.vercel.app/api?username=
 Leolira1808&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
- <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=blue-green"/>
+<!--  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=leolira1808&show_icons=true&theme=blue-green"/>
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolira1808&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
-<br>
+<br> -->
 
  <div  align="center"> 
 
